@@ -9,3 +9,9 @@ docker-compose up -d
 ```
 
 It will take a few minutes for it to boot and then you can visit http://localhost:5601/app/home#/
+
+To stop the service run:
+
+```
+docker-compose down
+```
